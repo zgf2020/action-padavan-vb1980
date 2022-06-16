@@ -9,7 +9,8 @@ on:
         required: false
       cloneurl:
         description: 设置源码地址：
-        default: "https://github.com/vb1980/Padavan-KVR.git"
+        default: "https://github.com/zgf2020/vb1980-Padavan-KVR.git" 
+#        default: "https://github.com/vb1980/Padavan-KVR.git"
         required: false
       release:
         description: 是否发布到Release？
